@@ -10,7 +10,7 @@ p,h1,h2,h3,h4,h4,h6,div,span {
 }
 
 p {
-	font-size: 16px;
+	font-size: 20px;
 }
 nav{
 	display:inline;
@@ -20,7 +20,7 @@ nav{
 	float:left;
 
 }
-.navbar-brand h6{
+.navbar-brand h4{
 	padding-top: 12.5px;
 	font-weight: bold;
 }
@@ -64,14 +64,15 @@ nav{
 
 .story {
 	padding: 50px 0;
-	font-size: 18px;
+	font-size: 20px;
 }
 
 span {
 	font-size: 20px;
 	display: block;
-	margin: 10px;
 	font-weight: bold;
+	padding-bottom: 15px;
+	
 }
 
 
@@ -131,9 +132,7 @@ span {
 	padding: 20px;
 	color: black;
 }
-video{
-	width:1000px;
-}
+
 .read img{
 	width:16px;
 }
@@ -146,11 +145,11 @@ video{
 　padding-bottom:30px;
 }
 .story2{
-	padding: 10px;
+	padding: 36px;
 }
 
-.about2 {
-	padding-bottom: 100px
+.block{
+	padding-bottom: 30px;
 }
 .row{
 	display: inline-block;
@@ -175,7 +174,12 @@ footer{
 		margin-bottom: 20px;
 }
 
+.pg{
+	padding-bottom: 20px;
+}
 
-
+.pg1{
+	padding-bottom: 12px;
+}
 
 
